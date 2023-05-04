@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjayrana16
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning GAP & SageMath & Python
-- 💞
+- 💞 I'm looking for a collaboration
 - 📫reach me at sanjayranamajumder@gmail.com
 
 <!---
